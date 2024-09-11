@@ -13,6 +13,6 @@ TL4DMOEAplanningAlgorithmExample.java
 # Citation
 H. Xie, D. Ding, L. Zhao and K. Kang, "Transfer Learning Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in the Cloud," in IEEE Transactions on Cloud Computing, doi: 10.1109/TCC.2024.3450858.
 # Note
-Due to GitHub's file size limitations, we have only uploaded the core code for tsp-MOEA. You may encounter challenges running the code in its entirety. If you need access to the complete code, feel free to reach out to us without hesitation.
+Due to GitHub's file size limitations, we have only uploaded the core code for TL-MOEA. You may encounter challenges running the code in its entirety. If you need access to the complete code, feel free to reach out to us without hesitation.
 # Contact
 fhzm1995@163.com or 20112033@bjtu.edu.cn
