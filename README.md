@@ -15,4 +15,4 @@ H. Xie, D. Ding, L. Zhao and K. Kang, "Transfer Learning Based Multi-Objective E
 # Note
 Due to GitHub's file size limitations, we have only uploaded the core code for TL-MOEA. You may encounter challenges running the code in its entirety. If you need access to the complete code, feel free to reach out to us without hesitation.
 # Contact
-fhzm1995@163.com or 20112033@bjtu.edu.cn
+qianyue17@gmail.com or 20112033@bjtu.edu.cn
